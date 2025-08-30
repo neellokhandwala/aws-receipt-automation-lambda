@@ -27,6 +27,3 @@ It demonstrates **Cloud Computing + Automation** skills using AWS services and P
 - **AWS DynamoDB** → NoSQL database for storing structured data  
 - **AWS SES (Simple Email Service)** → Automated email notifications  
 - **Python (boto3)** → AWS SDK for automation  
-
----
-
