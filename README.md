@@ -30,5 +30,3 @@ It demonstrates **Cloud Computing + Automation** skills using AWS services and P
 
 ---
 
-## 📂 Project Structure  
-
